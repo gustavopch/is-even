@@ -1,0 +1,5 @@
+{
+  "name": "@stuff/is-even",
+  "version": "0.1.0",
+  "exports": "./mod.ts"
+}
